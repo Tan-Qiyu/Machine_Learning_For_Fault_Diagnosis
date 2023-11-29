@@ -8,3 +8,5 @@ Author: Tan Qiyu
 E-mail：929796695@qq.com
 
 Home: https://github.com/Tan-Qiyu
+
+Dataset Download Link：https://github.com/Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset
